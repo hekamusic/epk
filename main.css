@@ -201,5 +201,7 @@ img.releases:hover {
     
     img.main {
         width: 100%;
+        text-align: center;
+        padding: 0px;
     }
 }
