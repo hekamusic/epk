@@ -84,6 +84,7 @@ a {
     padding-left: 10px;
     padding-right: 5px;
     overflow: hidden;
+        line-height: 1.22;
 }
 
 img.main {
