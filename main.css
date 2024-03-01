@@ -40,8 +40,8 @@ a {
     width: 20%;
     /*    height: 100%;*/
     padding: 10px;
-    height: 750px;
-    overflow: hidden;
+    height: 790px;
+    overflow: auto;
 }
 
 .column-2 {
@@ -53,14 +53,14 @@ a {
     padding-right: 20px;
     padding-bottom: 0px;
     margin-top: 0px;
-    height: 750px;
+    height: 790px;
     overflow: hidden;
 }
 
 .column-3 {
     float: left;
     width: 20%;
-    height: 750px;
+    height: 790px;
     overflow: auto;
     padding: 10px;
 
@@ -68,7 +68,7 @@ a {
 
 .sub-column-1 {
     float: left;
-    width: 40%;
+    width: 39%;
     height: 100%;
     padding-top: 0px;
     padding-right: 10px;
@@ -85,6 +85,15 @@ a {
     padding-right: 5px;
     overflow: hidden;
         line-height: 1.22;
+}
+
+
+.left-column-section {
+    height: 20%;
+}
+
+.logo {
+    height: 10%
 }
 
 img.main {
