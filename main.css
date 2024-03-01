@@ -40,7 +40,7 @@ a {
     width: 20%;
     /*    height: 100%;*/
     padding: 10px;
-    height: 790px;
+    height: 770px;
     overflow: auto;
 }
 
@@ -53,14 +53,14 @@ a {
     padding-right: 20px;
     padding-bottom: 0px;
     margin-top: 0px;
-    height: 790px;
+    height: 770px;
     overflow: hidden;
 }
 
 .column-3 {
     float: left;
     width: 20%;
-    height: 790px;
+    height: 770px;
     overflow: auto;
     padding: 10px;
 
@@ -89,7 +89,7 @@ a {
 
 
 .left-column-section {
-    height: 20%;
+    height: 18%;
 }
 
 .logo {
